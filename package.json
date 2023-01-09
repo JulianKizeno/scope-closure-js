@@ -1,0 +1,20 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000c\u0000o\u0000p\u0000e\u0000-\u0000c\u0000l\u0000o\u0000s\u0000u\u0000r\u0000e\u0000-\u0000j\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianKizeno/scope-closure-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianKizeno/scope-closure-js/issues"
+  },
+  "homepage": "https://github.com/JulianKizeno/scope-closure-js#readme"
+}
