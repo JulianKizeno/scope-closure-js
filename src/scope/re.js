@@ -27,10 +27,9 @@ const animal = "dog"; // declara y asigna
 // const animal = 'Snake'
 console.log(animal);
 
+const vehicles = [];
+vehicles.push("Mazda");
+console.log(vehicles);
 
-const vehicles = []
-vehicles.push('Mazda')
-console.log(vehicles)
-
-vehicles.pop()
-console.log(vehicles)
+vehicles.pop();
+console.log(vehicles);
